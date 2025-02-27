@@ -1,10 +1,9 @@
 # Wireless Pulse Monitoring System (WSAN)
 
 ### **Course**: ECPS 205  
-### **Team Members**:  
+
 - **Rudrashis Gorai**  
-- **Hridya Satish Pisharady**  
-- **Rohankumar Barouliya**
+
 
 ---
 

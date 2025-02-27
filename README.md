@@ -2,7 +2,9 @@
 
 ### **Course**: ECPS 205  
 
-- **Rudrashis Gorai**  
+- **Rudrashis Gorai**
+- **Hridya Satish Pisharady**  
+- **Rohankumar Barouliya**
 
 
 ---
